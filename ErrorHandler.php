@@ -8,7 +8,7 @@
  */
 namespace SproutErrors;
 
-use SproutInterfaces\ModuleInterface;
+use Sprout\SproutInterfaces\ModuleInterface;
 
 /**
  * Class that handles error logging to the database.
