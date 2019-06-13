@@ -6,7 +6,7 @@
  *
  * @see Learn more about why this was built at documentation.com/sprout-error-handling
  */
-namespace SproutErrors;
+namespace Sprout\SproutErrors;
 
 use Sprout\SproutInterfaces\ModuleInterface;
 
